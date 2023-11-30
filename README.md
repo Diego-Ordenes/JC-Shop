@@ -21,4 +21,4 @@ Las funcionalidades que tiene actualmente son:
 - Buscar productos, mediante sus categorias.
 - Funcion para enviar correos al Support de la tienda.
 
-Link de sitio web:
+Link to the demo video: https://drive.google.com/file/d/1PwwnUnefHqRDl6wZYtpn6o9ccMnxItts/view?usp=sharing
